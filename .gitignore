@@ -1,0 +1,13 @@
+# shuttle-template-yew .gitignore definitions
+
+.vscode
+
+target/
+
+dist/
+
+server/target/
+
+server/dist/
+
+/*.idea
