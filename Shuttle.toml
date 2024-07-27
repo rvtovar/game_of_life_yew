@@ -1,6 +1,6 @@
 # shuttle-template-yew project name definition file
 
-name = "shuttle-template-yew"
+name = "game-of-life-conway-tovar"
 
 assets = [
   "dist/*"
